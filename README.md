@@ -1,1 +1,1 @@
-This repository contains solutions to shell tasks
+My readme file for shell variable expansion
